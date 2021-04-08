@@ -7,6 +7,7 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/masummollaalhaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmasummollaalhaz/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiXzEGg7cwFUZhrOdu86TdQ)
+[![wordpress](https://img.shields.io/badge/wordpress-%230077B5.svg?&style=flat-square&logo=wordpress&logoColor=white)](http://masum.pepocoder.com)
 
 
 - 💪 Currently working as a freelancer 'Full Stack Web Developer'.
