@@ -36,6 +36,8 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
+![PHP](https://img.icons8.com/color/30/mysql.png)
+![PHP](https://img.icons8.com/color/30/sql.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![SASS](https://img.icons8.com/color/30/sass.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
