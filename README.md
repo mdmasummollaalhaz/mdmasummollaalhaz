@@ -52,9 +52,17 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mdmasummollaalhaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdmasummollaalhaz&show_icons=true&hide_border=true" />
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=mdmasummollaalhaz&show_icons=true&count_private=true)](https://github.com/mdmasummollaalhaz/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=mdmasummollaalhaz&layout=compact)](https://github.com/mdmasummollaalhaz/github-readme-stats)
 
 </details>
