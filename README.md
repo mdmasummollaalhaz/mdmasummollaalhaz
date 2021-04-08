@@ -27,8 +27,8 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 - 🎯 Wasting my time to save other people's time.
 
 
-<br />
-## :wrench:Languages and Tools:
+
+## :wrench: Languages and Tools
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
@@ -48,8 +48,7 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
-<br />
-<br />
+
 
 
 <details>
