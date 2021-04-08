@@ -37,7 +37,6 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![PHP](https://img.icons8.com/color/30/mysql.png)
-![PHP](https://img.icons8.com/color/30/laravel.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![SASS](https://img.icons8.com/color/30/sass.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
@@ -53,3 +52,20 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
