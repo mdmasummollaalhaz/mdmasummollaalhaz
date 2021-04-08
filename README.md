@@ -18,12 +18,12 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 - 💰 Looking for new clients who want to work with me, [contact me](mailto:masummolla.cse@gmail.com) please.
 - ☕ Coffee lover, turning it into code!
 - ⚡ Fun fact:
-  - I love to draw and play guitar/drums
-  - Traveling
-  - Watching Action Movies
+ - I love to draw and play guitar/drums
+ - Traveling
+ - Watching Action Movies
 - 🏆 2021 Goals:
-  - Contribute and publish more open source projects.
-  - Improve and expand my freelancing business.
+ - Contribute and publish more open source projects.
+ - Improve and expand my freelancing business.
 - 🎯 Wasting my time to save other people's time.
 
 
