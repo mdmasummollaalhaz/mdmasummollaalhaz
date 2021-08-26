@@ -61,6 +61,6 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=mdmasummollaalhaz&show_icons=true&count_private=true)][![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=mdmasummollaalhaz&layout=compact)]
+![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=mdmasummollaalhaz&show_icons=true&count_private=true)][![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=mdmasummollaalhaz&layout=compact)
 
 </details>
