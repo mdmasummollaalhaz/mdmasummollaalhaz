@@ -14,7 +14,7 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
 - 👯 I’m looking to collaborate with other content creators
 - 🔏 Bug bounty hunter in free time.
 - 💝 Author of multiple open source projects (30+ to be exact).
-- 🖥️ Founder and lead dev of [Pepocoder](https://pepocoder.com)
+- 🖥️ Founder and lead dev of [Pepocoder](http://pepocoder.com)
 - 💰 Looking for new clients who want to work with me, [contact me](mailto:masummolla.cse@gmail.com) please.
 - ☕ Coffee lover, turning it into code!
 - ⚡ Fun fact:
