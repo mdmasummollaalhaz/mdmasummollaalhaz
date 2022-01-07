@@ -1,7 +1,7 @@
 # Hi, I'm Md Masum Molla Alhaz (:coffee::computer::bulb::heart::bike:)
 
-I'm Full Stack Web Developer | WordPress | e-Commerce | Custom Theme | Email Templates and UX & UI Expert from Dhaka
-Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
+I'm a Full Stack Web Developer | WordPress | e-Commerce | Custom Theme | Email Templates and UX & UI Expert from Dhaka
+Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
 
 [![wordpress](https://img.shields.io/badge/wordpress-%230077B5.svg?&style=flat-square&logo=wordpress&logoColor=white)](http://masummollaalhaz.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/masummollaalhaz)
@@ -21,7 +21,7 @@ Bangladesh. Working on Upwork and fiverr MarketPlace as a FREELANCER.
   - I love to draw and play guitar/drums
   - Traveling
   - Watching Action Movies
-- 🏆 2021 Goals:
+- 🏆 2022 Goals:
   - Contribute and publish more open source projects.
   - Improve and expand my freelancing business.
 - 🎯 Wasting my time to save other people's time.
