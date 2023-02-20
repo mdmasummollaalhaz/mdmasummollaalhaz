@@ -22,7 +22,7 @@ Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
   - I love to draw and play guitar/drums
   - Traveling
   - Watching Action Movies
-- 🏆 2022 Goals:
+- 🏆 2023 Goals:
   - Contribute and publish more open source projects.
   - Improve and expand my freelancing business.
 - 🎯 Wasting my time to save other people's time.
