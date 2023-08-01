@@ -3,8 +3,7 @@
 I'm a Full Stack Web Developer | MERN | WordPress | e-Commerce | Custom Theme | Email Templates and UX & UI Expert from Dhaka
 Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
 
-[<img src="https://img.shields.io/badge/Personal-21759B?style=for-the-badge&logo=Iconify&logoColor=white" height="25"/>](http://masummollaalhaz.com)
-[<img src="https://img.shields.io/badge/Agency-21759B?style=for-the-badge&logo=Iconify&logoColor=white" height="25"/>](http://pepocoder.com)
+[<img src="https://img.shields.io/badge/Agency-21759B?style=for-the-badge&logo=Iconify&logoColor=white" height="25"/>](https://nextdevit.com/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height="25"/>](https://www.facebook.com/mdmasummollaalhaz)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>](https://www.linkedin.com/in/mdmasummollaalhaz/)
 [<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white" height="25"/>](https://www.behance.net/mdmasummollaalhaz)
@@ -15,7 +14,7 @@ Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🔏 Bug bounty hunter in free time.
-- 🖥️ Founder and lead dev of [Pepocoder](http://pepocoder.com)
+- 🖥️ Founder and lead dev of [NextDevIT](https://nextdevit.com/)
 - 💰 Looking for new clients who want to work with me, [contact me](mailto:masummolla.cse@gmail.com) please.
 - ☕ Coffee lover, turning it into code!
 - ⚡ Fun fact:
@@ -23,7 +22,7 @@ Bangladesh. I'm working on Upwork and Fiverr MarketPlace as a FREELANCER.
   - Traveling
   - Watching Action Movies
 - 🏆 2023 Goals:
-  - Contribute and publish more open source projects.
+  - Contribute and publish more open-source projects.
   - Improve and expand my freelancing business.
 - 🎯 Wasting my time to save other people's time.
 
