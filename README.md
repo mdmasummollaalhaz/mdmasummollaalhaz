@@ -1,11 +1,12 @@
 # Hi, I'm Md Masum Molla Alhaz ( :computer::coffee::bulb::heart::bike: )
 
-I am a Full Stack Developer with a huge love for PHP | Vue.js | Laravel | Everything API | WordPress | TailwindCSS | System Architecture | UX & UI Expert. Currently, I'm working on Upwork and Fiverr MarketPlace as a TOP-RATED FREELANCER. **I'm open to work and employment opportunities**.
+I possess a versatile skill set covering PHP | MySQL | Vue.js | Nuxt.js | InertiaJs | Laravel | Everything API | WordPress | TailwindCSS | System Architecture | UX & UI. This breadth of expertise equips me to tackle diverse challenges with precision and finesse.
+
+As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive into new challenges and opportunities. **Let's collaborate and innovate together!**.
 
 [<img src="https://img.shields.io/badge/Agency-21759B?style=for-the-badge&logo=Iconify&logoColor=white" height="23"/>](https://nextdevit.com/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height="23"/>](https://www.facebook.com/mdmasummollaalhaz)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" height="23"/>](https://www.linkedin.com/in/mdmasummollaalhaz/)
-[<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white" height="23"/>](https://www.behance.net/mdmasummollaalhaz)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" height="23"/>](https://www.youtube.com/channel/UCiXzEGg7cwFUZhrOdu86TdQ)
 
 
@@ -29,20 +30,20 @@ I am a Full Stack Developer with a huge love for PHP | Vue.js | Laravel | Everyt
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-025B86?style=flat-square&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3EB27F?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-2D465B?style=flat-square&logo=nuxt.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-91013B?style=flat-square&logo=elementor&logoColor=white)
 ![Oxygen](https://img.shields.io/badge/Oxygen-816CEF?style=flat-square&logo=oxygen&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-8237D6?style=flat-square&logo=divitheme&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
@@ -58,6 +59,9 @@ I am a Full Stack Developer with a huge love for PHP | Vue.js | Laravel | Everyt
 
 ## ⚡ Server / Hosting
   <p align="left">
+    <img src="https://img.shields.io/badge/Forge-19B59B?style=for-the-badge&logo=forge&logoColor=white" height="23"/>
+    <img src="https://img.shields.io/badge/Vercel-080808?style=for-the-badge&logo=vercel&logoColor=white" height="23"/>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="23"/>
     <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=GoDaddy&logoColor=white" height="23"/>
     <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=Namecheap&logoColor=white" height="23"/>
     <img src="https://img.shields.io/badge/Hostinger-674CC4?style=for-the-badge&logo=hostinger&logoColor=white" height="23"/>
