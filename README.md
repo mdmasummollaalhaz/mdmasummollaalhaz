@@ -51,9 +51,12 @@ As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive in
 ## :dollar: Payment Gateways Integration
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=PayPal&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-3295FE?style=flat-square&logo=Razorpay&logoColor=white)
+![Mollie](https://img.shields.io/badge/Mollie-000000?style=flat-square&logo=MolliePay&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/GooglePay-4285F4?style=flat-square&logo=GooglePay&logoColor=white)
 ![Apple Pay](https://img.shields.io/badge/ApplePay-000000?style=flat-square&logo=ApplePay&logoColor=white)
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-285CAB?style=flat-square&logo=SSLCommerz&logoColor=white)
+![aamarPay](https://img.shields.io/badge/aamarPay-FFA500?style=flat-square&logo=aamarPay&logoColor=white)
 ![Bkash](https://img.shields.io/badge/bKash-E32073?style=flat-square&logo=bkash&logoColor=white)
 
 
@@ -73,7 +76,10 @@ As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive in
 
 ## :wrench: Other Tools
   <p align="left">
-    <img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Postman-F76837?style=for-the-badge&logo=Postman&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/PhpStorm-AC43EA?style=for-the-badge&logo=PhpStorm&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/WebStorm-94DD80?style=for-the-badge&logo=WebStorm&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-2185C5?style=for-the-badge&logo=VisualStudioCode&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" height="26"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" height="26"/>
@@ -83,7 +89,11 @@ As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive in
     <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Digital Marketing-4285F4?style=for-the-badge&logo=Google Marketing Platform&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google Ads&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Sitemaps-2A7AD3?style=for-the-badge&logo=sitemaps&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Google Search Console-1B72E8?style=for-the-badge&logo=Google Search Console&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Google analytics-1B72E8?style=for-the-badge&logo=Google Analytics&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Microsoft Clarity-2A7AD3?style=for-the-badge&logo=Microsoft&logoColor=white" height="26"/>
+    <img src="https://img.shields.io/badge/Yoast SEO-2A7AD3?style=for-the-badge&logo=Yoast&logoColor=white" height="26"/>
   </p>
 
 
