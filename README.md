@@ -1,6 +1,6 @@
 # Hi, I'm Md Masum Molla Alhaz ( :computer::coffee::bulb::heart::bike: )
 
-I possess a versatile skill set covering PHP | MySQL | Vue.js | Nuxt.js | InertiaJs | Laravel | Everything API | WordPress | TailwindCSS | System Architecture | UX & UI. This breadth of expertise equips me to tackle diverse challenges with precision and finesse.
+I possess a versatile skill set covering PHP | MySQL | TailwindCSS | Vue.js | Nuxt.js | InertiaJs | Laravel | Everything API | WordPress | Shopify | System Architecture | UX & UI. This breadth of expertise equips me to tackle diverse challenges with precision and finesse.
 
 As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive into new challenges and opportunities. **Let's collaborate and innovate together!**.
 
@@ -15,12 +15,12 @@ As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive in
 - 👯 I’m looking to collaborate with other content creators
 - 🔏 Bug bounty hunter in free time.
 - 🖥️ Founder and lead dev of [NextDevIT](https://nextdevit.com/)
-- 💰 Looking for new clients who want to work with me, [contact me](mailto:masummolla.cse@gmail.com) please.
+- 💰 Looking for new clients who want to work with me, [contact me](https://nextdevit.com/contact) please.
 - ☕ Coffee lover, turning it into code!
 - ⚡ Fun fact:
   - Traveling
   - Watching Action Movies
-- 🏆 2024 Goals:
+- 🏆 2025 Goals:
   - Contribute and publish more open-source projects.
   - Improve and expand my freelancing business.
 - 🎯 Wasting my time to save other people's time.
@@ -83,15 +83,7 @@ As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive in
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" height="26"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Digital Marketing-4285F4?style=for-the-badge&logo=Google Marketing Platform&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Sitemaps-2A7AD3?style=for-the-badge&logo=sitemaps&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Google Search Console-1B72E8?style=for-the-badge&logo=Google Search Console&logoColor=white" height="26"/>
-    <img src="https://img.shields.io/badge/Google analytics-1B72E8?style=for-the-badge&logo=Google Analytics&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Microsoft Clarity-2A7AD3?style=for-the-badge&logo=Microsoft&logoColor=white" height="26"/>
     <img src="https://img.shields.io/badge/Yoast SEO-2A7AD3?style=for-the-badge&logo=Yoast&logoColor=white" height="26"/>
   </p>
