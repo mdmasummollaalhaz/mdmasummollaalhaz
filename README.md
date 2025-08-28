@@ -4,8 +4,8 @@ I possess a versatile skill set covering PHP | MySQL | TailwindCSS | Vue.js | Nu
 
 As a TOP-RATED FREELANCER on Upwork and Fiverr Marketplace, I'm eager to dive into new challenges and opportunities. **Let's collaborate and innovate together!**.
 
-[<img src="https://img.shields.io/badge/Agency-21759B?style=for-the-badge&logo=Iconify&logoColor=white" height="23"/>](https://nextdevit.com/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height="23"/>](https://www.facebook.com/mdmasummollaalhaz)
+[<img src="https://img.shields.io/badge/Agency-0024FF?style=for-the-badge&logo=githubactions&logoColor=white" height="23"/>](https://nextdevit.com/)
+[<img src="https://img.shields.io/badge/Personal-E9F532?style=for-the-badge&logo=protodotio&logoColor=black" height="23"/>](https://masummolla.com/)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" height="23"/>](https://www.linkedin.com/in/mdmasummollaalhaz/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" height="23"/>](https://www.youtube.com/channel/UCiXzEGg7cwFUZhrOdu86TdQ)
 
